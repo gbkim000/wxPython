@@ -1,2 +1,5 @@
-cairo
-doc
+.spyproject/
+!.gitignore
+**/__pycache__/
+build/
+

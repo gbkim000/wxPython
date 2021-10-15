@@ -9,6 +9,9 @@ waiting effect in cairo.
 author: Jan Bodnar
 website: zetcode.com
 last edited: May 2018
+
+pip install pycairo
+
 '''
 
 import wx
@@ -125,3 +128,4 @@ def main():
 if __name__ == '__main__':
     main()
     
+# %%
